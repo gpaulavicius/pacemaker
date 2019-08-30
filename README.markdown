@@ -1,4 +1,6 @@
 # Pacemaker
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fpacemaker.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fpacemaker?ref=badge_shield)
+
 
 ## What is Pacemaker?
 
@@ -65,3 +67,7 @@ See [CONTRIBUTING.md](https://github.com/ClusterLabs/pacemaker/blob/master/CONTR
 * [Issues/Bugs](http://bugs.clusterlabs.org/)
 * Mailing lists for [users](http://oss.clusterlabs.org/mailman/listinfo/users) and [developers](http://oss.clusterlabs.org/mailman/listinfo/developers)
 * #clusterlabs IRC channel on [freenode](http://freenode.net/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpaulavicius%2Fpacemaker.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpaulavicius%2Fpacemaker?ref=badge_large)
